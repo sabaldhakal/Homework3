@@ -60,9 +60,7 @@ Basic terminology (https://en.wikipedia.org/wiki/Unit_prefix)
 
 From Physics
 
-Speed of light 	= 186,282 mi/s
-
-		= 299792.458 km/s
+Speed of light 	= 186,282 mi/s = 299792.458 km/s
 
 
 
